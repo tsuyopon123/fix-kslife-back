@@ -1,0 +1,12 @@
+{
+    "name": "fix kslife \"Modoru\"",
+    "version": "1.0.0",
+    "manifest_version": 2,
+    "description": "K'sLifeを少しマシにするための何か",
+    "content_scripts": [{
+      "matches": ["https://ksuweb.kyusan-u.ac.jp/*"],
+      "js": [
+        "back.js"
+      ]
+    }]
+  }
