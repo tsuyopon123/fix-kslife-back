@@ -1,6 +1,6 @@
 {
     "name": "fix kslife \"Modoru\"",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "manifest_version": 2,
     "description": "K'sLifeを少しマシにするための何か",
     "content_scripts": [{
